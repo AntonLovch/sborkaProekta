@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Open sans';
+    src: url('fonts/OpenSans-Regular.woff') format('woff'),
+     url('fonts/OpenSans-Regular.woff2') format('woff2');
+}
+
+
+
+
+body {
+    font-family: 'Open Sans';
+    background: rgb(40, 196, 236);
+}
+div {
+    background: rgb(51, 153, 107);
+}
+
+p {
+    color: white;
+}
